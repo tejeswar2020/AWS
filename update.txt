@@ -1,5 +1,6 @@
 Git commands list
 
-mkdir <dir name> - make a new dir		 #Rithin
-git clone <clone url> - clone the git repository #Rithin
-Git init - Initializing the git  		 #Rithin
+mkdir <dir name> - make a new dir		 #Rithin, Srikar, Reehan
+git clone <clone url> - clone the git repository #Rithin, Srikar, Reehan
+Git init - Initializing the git  		 #Rithin, Srikar, Reehan
+
