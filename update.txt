@@ -1,0 +1,5 @@
+Git commands list
+
+mkdir <dir name> - make a new dir		 #Rithin
+git clone <clone url> - clone the git repository #Rithin
+Git init - Initializing the git  		 #Rithin
