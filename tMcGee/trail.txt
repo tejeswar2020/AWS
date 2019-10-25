@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Java leadi
-=======
 java World.
->>>>>>> 82f851fb21ff3f6a2fe6868080af5dd03081945a
 just a trial: 
 just a small change
